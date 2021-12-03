@@ -1,16 +1,11 @@
-### Hi there 👋
 
-<!--
-**Ryann2002/Ryann2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>
+  Hi, I'm Ryan 👋
+  <h1/>
+<div align="center">
+  
+  <a href="https://github.com/ryann2002">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryann2002&langs_count=4&theme=apprentice&bg_color=000000"/>
+</div>
+  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
